@@ -17,7 +17,7 @@ So I wanted to come up with some conventions that maximise the benefits of the n
 * Merge support
 
 Setup
-Build
+Build vs Hooks
 Memory vs Files
 Printing vs Output
 Yield vs Return
